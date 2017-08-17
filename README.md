@@ -1,0 +1,2 @@
+# myGait
+Gait Recognition software
