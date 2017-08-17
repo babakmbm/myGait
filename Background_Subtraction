@@ -1,0 +1,4 @@
+function noBackgroungImage = backgroundExt(image)
+
+imread(image)
+
